@@ -31,7 +31,7 @@ L'applicazione è una Web App Single-User per la gestione completa di tornei spo
 - `/backend/Models`: Contiene le classi `Team.php` e `Tournament.php` (Business Logic).
 - `/backend/api`: Contiene gli endpoint suddivisi per risorsa (`teams` e `tournaments`).
 - `/frontend`: Contiene l'applicazione React.
-- `/frontend/src/App.jsx`: Componente principale che gestisce l'intera interfaccia e lo stato.
+- `/frontend/src/App.jsx`: componente principale che gestisce lo stato globale e la logica di navigazione tra le pagine React.
 
 ---
 
